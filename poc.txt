@@ -4264,6 +4264,7 @@
 ./poc/auth/key-cloak-admin-panel_1.yaml
 ./poc/auth/key-cloak-admin-panel_2.yaml
 ./poc/auth/key4ce-osticket-bridge-ab82959ff53f951e1a89a788266e8435.yaml
+./poc/auth/keybase-domain-owwnership-verification.yaml
 ./poc/auth/keybase-domain-owwnership-verification_1.yaml
 ./poc/auth/keybase-phish.yaml
 ./poc/auth/keybase-phish_1.yaml
@@ -111376,6 +111377,7 @@
 ./poc/detect/aspnet-version-detect.yaml
 ./poc/detect/aspnet-version-detect_1.yaml
 ./poc/detect/aspnet-version-detect_2.yaml
+./poc/detect/assetlinks-detect.yaml
 ./poc/detect/atlantis-detect.yaml
 ./poc/detect/atlantis-detect_1.yaml
 ./poc/detect/atlantis-detect_2.yaml
@@ -156431,6 +156433,7 @@
 ./poc/other/ngrok-status-page_2.yaml
 ./poc/other/ngrok-status-page_3.yaml
 ./poc/other/ngrok-status-page_4.yaml
+./poc/other/ngsurvey-panel.yaml
 ./poc/other/ngsurvey-panel_1.yaml
 ./poc/other/ngx_cache_purge.yaml
 ./poc/other/ngx_cache_purge_1.yaml
