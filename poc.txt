@@ -151598,6 +151598,7 @@
 ./poc/other/fortinet-fortimanager-panel_1.yaml
 ./poc/other/fortinet-fortimanager-panel_2.yaml
 ./poc/other/fortinet-fortimanager-panel_3.yaml
+./poc/other/fortinet-fortimanager-panel_4.yaml
 ./poc/other/fortinet-fortinac-panel.yaml
 ./poc/other/fortinet-fortinac-panel_1.yaml
 ./poc/other/fortinet-fortinac-panel_2.yaml
